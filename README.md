@@ -1,4 +1,0 @@
-genealogy
-=========
-
-Genealogy blog
