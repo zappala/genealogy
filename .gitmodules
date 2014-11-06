@@ -4,3 +4,6 @@
 [submodule "themes/pelican-sparrow"]
 	path = themes/pelican-sparrow
 	url = git@github.com:zappala/pelican-sparrow.git
+[submodule "themes/pelican-etna"]
+	path = themes/pelican-etna
+	url = git@github.com:zappala/pelican-etna.git
