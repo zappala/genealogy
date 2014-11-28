@@ -33,7 +33,7 @@ SURNAME_URL = '{slug}'
 SURNAME_SAVE_AS = '/surnames/{slug}.html'
 PERSON_URL = '{slug}'
 PERSON_SAVE_AS = '/people/{slug}.html'
-INDEX_SAVE_AS = 'index.html'
+INDEX_SAVE_AS = 'blog.html'
 
 # Templates
 DIRECT_TEMPLATES = ('index', 'tags', 'archives', 'surnames', 'people')
