@@ -53,7 +53,7 @@ THEME = "themes/pelican-etna"
 
 # Plugins
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['assets','neighbors', 'summary', 'genealogy']
+PLUGINS = ['neighbors', 'summary', 'pelican-genealogy']
 
 # Comments
 # DISQUS_SITENAME = 'zappalagenealogy'

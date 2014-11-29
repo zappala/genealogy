@@ -6,6 +6,3 @@ Home
 :url: 
 :save_as: index.html
 :author: Daniel Zappala
-
-Family History
-=====================
